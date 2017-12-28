@@ -1,0 +1,15 @@
+/*Structure*/
+#include<stdio.h>
+struct student
+{
+int marks,
+char name;
+int roll_no;
+};
+main()
+{
+struct student stu;
+stu.marks=48;
+strcpy(stu.name, "Vivek");
+printf("%d %s",stu.marks,stu.name);
+}
