@@ -1,0 +1,9 @@
+There are 1000 coins in a row such that all are heads up, for our convenience lets say the coins are numbered 1 to 1000. 
+the following steps are  performed ina sequence below.
+1. Flip every second coin (coins 2,4,6,8, are all the tails up
+2. FLip every third coin(coin 3 is tails up and 6 back to heads)
+3. FLip every 4th coin
+...
+
+..
+1000. flip every 1000 coins(ofcource exactly one coin will be fliped at the end)
